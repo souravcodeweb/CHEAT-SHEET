@@ -4,6 +4,6 @@
 License:-
 <br>
 
-You can download it & use it anytime you want. <br>
-You can share it anywhere but add a small credit to me.<br>
-Thanks for the support. 💜
+> You can download it & use it anytime you want. <br>
+> You can share it anywhere but add a small credit to me.<br>
+> Thanks for the support. 💜
