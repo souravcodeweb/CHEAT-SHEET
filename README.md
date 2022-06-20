@@ -7,6 +7,10 @@
 # 3 CSS Flexbox Cheatsheet
 ![p ost](https://user-images.githubusercontent.com/87852919/173545397-8ed85141-d1d3-46ed-a3ae-9554bdf87907.png)
 
+# 4 HTML Input Types Cheatssheet
+![HTML Input Types](https://user-images.githubusercontent.com/87852919/174537467-bf51c9e7-dbb2-4fa9-a3a0-a8c796d44c26.png)
+
+
 License:-
 <br>
 > You can download it & use it anytime you want. <br>
