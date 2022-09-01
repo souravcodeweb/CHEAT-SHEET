@@ -11,6 +11,10 @@
 ![HTML Input Types](https://user-images.githubusercontent.com/87852919/174537467-bf51c9e7-dbb2-4fa9-a3a0-a8c796d44c26.png)
 
 
+# { Git Commands Cheat Sheet! }
+
+![git schat sheet](https://user-images.githubusercontent.com/87852919/187825447-26a8eb15-cbb0-47ec-987d-a0c8c96f8a0a.png)
+
 License:-
 <br>
 > You can download it & use it anytime you want. <br>
