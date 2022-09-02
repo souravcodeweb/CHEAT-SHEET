@@ -15,6 +15,10 @@
 
 ![git schat sheet](https://user-images.githubusercontent.com/87852919/187825447-26a8eb15-cbb0-47ec-987d-a0c8c96f8a0a.png)
 
+# { MongoDb Basic Commands CheatSheet }
+
+![mongoDB CCheatSheet](https://user-images.githubusercontent.com/87852919/188078477-70cc13aa-ccca-4e6d-aa7b-0d491f3e13e0.png)
+
 License:-
 <br>
 > You can download it & use it anytime you want. <br>
