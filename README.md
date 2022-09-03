@@ -19,6 +19,10 @@
 
 ![mongoDB CCheatSheet](https://user-images.githubusercontent.com/87852919/188078477-70cc13aa-ccca-4e6d-aa7b-0d491f3e13e0.png)
 
+# { Some Useful Properties & Events Cheat Sheet in JavaScript! }
+![JavaScript chate Sheet](https://user-images.githubusercontent.com/87852919/188266524-a9f842a5-dee1-43d0-a02a-5b840fd84b11.png)
+
+
 License:-
 <br>
 > You can download it & use it anytime you want. <br>
