@@ -11,17 +11,19 @@
 ![HTML Input Types](https://user-images.githubusercontent.com/87852919/174537467-bf51c9e7-dbb2-4fa9-a3a0-a8c796d44c26.png)
 
 
-# { Git Commands Cheat Sheet! }
+# 5 { Git Commands Cheat Sheet! }
 
 ![git schat sheet](https://user-images.githubusercontent.com/87852919/187825447-26a8eb15-cbb0-47ec-987d-a0c8c96f8a0a.png)
 
-# { MongoDb Basic Commands CheatSheet }
+# 6{ MongoDb Basic Commands CheatSheet }
 
 ![mongoDB CCheatSheet](https://user-images.githubusercontent.com/87852919/188078477-70cc13aa-ccca-4e6d-aa7b-0d491f3e13e0.png)
 
-# { Some Useful Properties & Events Cheat Sheet in JavaScript! }
+# 7{ Some Useful Properties & Events Cheat Sheet in JavaScript! }
 ![JavaScript chate Sheet](https://user-images.githubusercontent.com/87852919/188266524-a9f842a5-dee1-43d0-a02a-5b840fd84b11.png)
 
+# 8 HTML Input Types Cheatssheet
+![TODAY](https://user-images.githubusercontent.com/87852919/190141934-de0b3849-b9e4-409f-87ad-bcdb18feaba8.png)
 
 License:-
 <br>
