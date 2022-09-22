@@ -22,8 +22,11 @@
 # 7{ Some Useful Properties & Events Cheat Sheet in JavaScript! }
 ![JavaScript chate Sheet](https://user-images.githubusercontent.com/87852919/188266524-a9f842a5-dee1-43d0-a02a-5b840fd84b11.png)
 
-# 8 HTML Input Types Cheatssheet
+# { 8 HTML Input Types Cheatssheet }
 ![TODAY](https://user-images.githubusercontent.com/87852919/190141934-de0b3849-b9e4-409f-87ad-bcdb18feaba8.png)
+
+# 9 { Linux Commands Cheatssheet }
+![linux c s](https://user-images.githubusercontent.com/87852919/191681442-00b27b37-4fbc-435a-9a4d-70e09b32eb7d.png)
 
 License:-
 <br>
