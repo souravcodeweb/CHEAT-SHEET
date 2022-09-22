@@ -7,7 +7,7 @@
 # 3 CSS Flexbox Cheatsheet
 ![p ost](https://user-images.githubusercontent.com/87852919/173545397-8ed85141-d1d3-46ed-a3ae-9554bdf87907.png)
 
-# 4 HTML Input Types Cheatssheet
+# 4 HTML Input Types Cheat Sheet
 ![HTML Input Types](https://user-images.githubusercontent.com/87852919/174537467-bf51c9e7-dbb2-4fa9-a3a0-a8c796d44c26.png)
 
 
@@ -15,17 +15,17 @@
 
 ![git schat sheet](https://user-images.githubusercontent.com/87852919/187825447-26a8eb15-cbb0-47ec-987d-a0c8c96f8a0a.png)
 
-# 6{ MongoDb Basic Commands CheatSheet }
+# 6{ MongoDb Basic Commands Cheat Sheet }
 
 ![mongoDB CCheatSheet](https://user-images.githubusercontent.com/87852919/188078477-70cc13aa-ccca-4e6d-aa7b-0d491f3e13e0.png)
 
 # 7{ Some Useful Properties & Events Cheat Sheet in JavaScript! }
 ![JavaScript chate Sheet](https://user-images.githubusercontent.com/87852919/188266524-a9f842a5-dee1-43d0-a02a-5b840fd84b11.png)
 
-# { 8 HTML Input Types Cheatssheet }
+# { 8 HTML Input Types Cheat Sheet }
 ![TODAY](https://user-images.githubusercontent.com/87852919/190141934-de0b3849-b9e4-409f-87ad-bcdb18feaba8.png)
 
-# 9 { Linux Commands Cheatssheet }
+# 9 { Linux Commands Cheat Sheet }
 ![linux c s](https://user-images.githubusercontent.com/87852919/191681442-00b27b37-4fbc-435a-9a4d-70e09b32eb7d.png)
 
 License:-
